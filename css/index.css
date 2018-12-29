@@ -1,0 +1,38 @@
+body {
+    background-color: antiquewhite;
+}
+.heada{
+    height: 4em;
+    width: 100%;
+    background-color: black;
+    background-image: url("../images/a.jpg");
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    -moz-background-size:100% 100%;
+}
+.headb {
+    height: 18em;
+    width: 100%;
+    background-color: hotpink;
+}
+.bodys{
+
+}
+.tleft{
+    height: 50em;
+    width: 20%;
+    background-color: azure;
+    float: left;
+}
+.tright{
+    height: 50em;
+    width: 70%;
+    background-color: darkgray;
+    float: right;
+}
+.foots{
+    height: 2em;
+    background-color: aquamarine;
+    margin-bottom: 0px;
+    margin-top: 1em;
+}
